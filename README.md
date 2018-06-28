@@ -4,7 +4,7 @@
 * Rest-Assured - Integration rest testing
 * Jenkinsfile - Pipeline as a code
 
-##### Get enrolled courses by "Student2" 
+##### Get enrolled courses by "Student2" QuyTuTest
 <http://localhost:8080/students/Student2/courses>
 
 ### Running Tests
